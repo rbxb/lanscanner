@@ -1,6 +1,11 @@
 # lanscanner
 Scan local network for HTTP servers.
 
+```shell
+$ go get github.com/rbxb/lanscanner
+$ go install github.com/rbxb/lanscanner/cmd/lanscanner
+```
+
 #### `-ip`
 List/range of IPs. (*required*)
 
