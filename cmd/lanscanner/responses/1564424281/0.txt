@@ -1,0 +1,12 @@
+Time: 2019-07-29 11:18:02.1243798 -0700 MST m=+0.158369501
+
+GET / HTTP/1.1
+Host: 172.16.2.115:8080
+User-Agent: Go-http-client/1.1
+Accept-Encoding: gzip
+
+HTTP/1.1 200 OK
+Content-Length: 1359
+Content-Type: text/html; charset=utf-8
+Date: Mon, 29 Jul 2019 18:18:02 GMT
+
